@@ -1,8 +1,6 @@
 # SHA256
 
-This Java program implements the SHA-256 hashing algorithm.
-SHA-256 is a cryptographic hash function that produces a 256-bit (32-byte) hash value from any input. 
-It is widely used for security purposes, such as password hashing, digital signatures, and encryption.
+This Java program implements the SHA-256 hashing algorithm that produces a 256-bit (32-byte) hash value from any input. 
 
 ## Installation
 
