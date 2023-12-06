@@ -15,5 +15,5 @@ Follow these steps to use the program:
 3. Save the file and run the program.
 4. The program will display a welcome message and prompt you to enter the input to be hashed.
 5. Enter the input and press enter. The program will process the input and display the hashed output in hexadecimal format.
-6. The program will also display a message in ASCII art.
+6. The program will terminate with display a message in ASCII art.
 
