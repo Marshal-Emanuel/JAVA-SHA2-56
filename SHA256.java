@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SHA256 {
 
-    public void hash(String pin) {
+    public void hash(String pin) { 
         try {
             MessageDigest md = MessageDigest.getInstance("SHA256");
             md.update(pin.getBytes());
