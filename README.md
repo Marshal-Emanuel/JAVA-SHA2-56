@@ -8,7 +8,7 @@ To run this program, you need to have Java installed on your system. You can dow
 
 ## Usage
 
-Follow these steps to use the program: 
+Follow these steps to use the program:  
 
 1. Open the Java IDE of your choice and create a new Java project.
 2. Copy and paste the code from this file into a new Java class named `SHA256`.
