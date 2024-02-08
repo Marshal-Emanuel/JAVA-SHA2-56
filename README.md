@@ -14,6 +14,6 @@ Follow these steps to use the program:
 2. Copy and paste the code from this file into a new Java class nam ed `SHA256`.
 3. Save the file and run the program.
 4. The program will display a welcome message and prompt you to enter the input to be hashed.
-5. Enter the input and press enter. The program will process the input and display the hashed output in hexadecimal format.
+5. Enter the input and press enter. The program will process the input and display the hashed output in hexadecimal format. 
 6. The program will terminate with display a message in ASCII art.
 
