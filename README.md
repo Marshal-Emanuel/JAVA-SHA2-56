@@ -2,7 +2,7 @@
 
 This Java program implements the SHA-256 hashing algorithm that produces a 256-bit (32-byte) hash value from any input. 
 
-## Installation
+## Installation 
  
 To run this program, you need to have Java installed on your system. You can download Java from [here](https://www.oracle.com/java/technologies/javase-downloads.html). Additionally, you need to have a Java IDE, such as [Eclipse](https://www.eclipse.org/downloads/), [NetBeans](https://netbeans.apache.org/download/index.html), or [IntelliJ IDEA](https://www.jetbrains.com/idea/download/). 
 
