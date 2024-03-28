@@ -17,3 +17,5 @@ Follow these steps to use the program:
 5. Enter the input and press enter. The program will process the input and display the hashed output in hexadecimal format. 
 6. The program will terminate with display a message in ASCII art.
 
+7. ##Can be used as a plugin for hashing functionailties :D
+
