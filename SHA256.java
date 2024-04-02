@@ -10,7 +10,7 @@ public class SHA256 {
             md.update(pin.getBytes());
             byte[] output = md.digest();
 
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new StringBuilder();  
             for (byte b : output) {
                 sb.append(String.format("%02x", b));
 
