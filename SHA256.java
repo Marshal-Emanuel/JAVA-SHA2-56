@@ -7,7 +7,7 @@ public class SHA256 {
     public void hash(String pin) { 
         try {
             MessageDigest md = MessageDigest.getInstance("SHA256");
-            md.update(pin.getBits());
+            md.update(pin.getBytes());
             byte[] output = md.digest();
 
             StringBuilder sb = new StringBuilder();
