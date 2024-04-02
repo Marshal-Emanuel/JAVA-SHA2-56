@@ -12,7 +12,7 @@ public class SHA256 {
 
             StringBuilder sb = new StringBuilder();
             for (byte b : output) {
-                sb.append(String.format("%03x", b));
+                sb.append(String.format("%02x", b));
 
             }
             System.out.println("||              Process Completed Succesfuly :)           ||");
