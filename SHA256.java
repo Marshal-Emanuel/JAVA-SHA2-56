@@ -33,7 +33,6 @@ public class SHA256 {
     }
 
     public void input() {
-
         System.out.println("===========================================================");
         System.out.println("||                   {'_'}                                ||");
         System.out.println("||    [[  Welcome to the \"SHA\" Hashing Algorithm  ]]      ||");
