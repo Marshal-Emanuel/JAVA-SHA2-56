@@ -1,4 +1,4 @@
-# SHA256
+# SHA256 
 
 This Java program implements the SHA-256 hashing algorithm that produces a 256-bit (32-byte) hash value from any input. 
 
